@@ -72,7 +72,7 @@ git clone https://github.com/eruj22/dnevna-tecajnica
 npm install
 ```
 
-2. Run code locallz
+2. Run code locally
 
 ```sh
 npm start

@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+svg {
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  height: 420px;
+  width: 900px;
+  background-color: rgb(243, 243, 243);
+  overflow: visible;
+  border-radius: 10px;
+}
+
+svg > g {
+  padding: 20px 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  padding: 20px 60px;
+}
+
+.header__select {
+  margin-top: 20px;
+}
+
+.select {
+  width: 80px;
+}
+
+.MuiFormControl-root {
+  margin-right: 20px !important;
+}
+
+.select svg {
+  margin-left: 30px;
+  background-color: transparent;
+}
+
+line.x,
+line.y,
+circle.y {
+  stroke: #111;
+}

@@ -63,7 +63,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/eruj22/color-generator
+git clone https://github.com/eruj22/dnevna-tecajnica
 ```
 
 2. Install NPM packages

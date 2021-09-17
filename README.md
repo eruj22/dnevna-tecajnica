@@ -25,7 +25,7 @@
 
 ## About The Project
 
-In this app there is visual presentation of different currencies in comparison with euro for selected year. Data is fetched from the external xml file and the data is represented with a library D3.js.
+In this app there is visual presentation of different currencies in comparison with euro for selected year. Data is fetched from the external xml file and it is represented with a library D3.js.
 
 ### Built With
 
@@ -70,4 +70,10 @@ git clone https://github.com/eruj22/dnevna-tecajnica
 
 ```sh
 npm install
+```
+
+2. Run code locallz
+
+```sh
+npm start
 ```
